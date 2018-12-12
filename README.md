@@ -41,4 +41,12 @@ Http请求方式：
                           5）POST请求对提交数据的长度没有限制。
 </pre>
 
+### Request Header
+
+![](https://i.imgur.com/cW0zrd5.png)
+
+### Response Header
+
+![](https://i.imgur.com/wrQDs6k.png)
+
 
